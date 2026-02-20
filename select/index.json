@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゲシュタルト後悔",
+  "base_artist": "CARAMEL CANDiD",
+  "createdAt": "2026-02-20T00:09:02.780571Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゲシュタルト後悔",
+      "artist": "CARAMEL CANDiD",
+      "has_synced": false,
+      "path": "select/pl_01_ゲシュタルト後悔_CARAMEL_CANDiD.txt"
+    }
+  ]
+}
